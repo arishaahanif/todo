@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+#content_container{
+    background-color: azure;
+    height: 100%;
+    /* padding: 10px; */
+    text-align: center;
+    /* margin: 5px; */
+}
+.task_container{
+    margin: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    font-size: 30px;
+}
+#finish_task_header{
+    font-size: 30px;
+    font-weight: bold;
+    /* margin: 10px; */
+    padding: 10px;
+}
+#task_input_container{
+    padding: 10px;
+}
+#input_box{
+    padding: 5px;
+}
+#input_date{
+    padding: 5px;
+}
+#input_button{
+    padding: 5px;
+
+}
